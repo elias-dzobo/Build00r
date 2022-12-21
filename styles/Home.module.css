@@ -151,6 +151,14 @@
   background-clip: content-box;
 }
 
+.container {
+  background: #1F1F1F;
+}
+
+.wallet-adapter-button-trigger {
+  background-color: #833BBE;
+}
+
 /* Enable hover only on non-touch devices */
 @media (hover: hover) and (pointer: fine) {
   .card:hover {
